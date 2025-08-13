@@ -8,7 +8,7 @@
 
 通过查看代码
 
-![image-20250813155435436](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20250813155435436.png)
+![1](https://raw.githubusercontent.com/cvi-Qing/code-anylance/refs/heads/main/anylance/jpg/image-20250813155435436.png)
 
 此处为拦截器，path 表示请求（`/**`）进行拦截 通过跟进代码UserHandlerInterceptor
 
@@ -23,11 +23,11 @@
 </beans>
 ````
 
-![image-20250813160207090](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20250813160207090.png)
+![2](https://raw.githubusercontent.com/cvi-Qing/code-anylance/refs/heads/main/anylance/jpg/image-20250813160207090.png)
 
 根据代码来看
 
-![image-20250813161914909](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20250813161914909.png)
+![image-20250813161914909](https://github.com/cvi-Qing/code-anylance/blob/main/anylance/jpg/image-20250813161914909.png?raw=true)
 
 ````java
             if (!this.isWhiteUri(uri)) {
