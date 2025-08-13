@@ -2,7 +2,7 @@
 
 根据情报的poc ，/manage/intercom/为绕过的信息查看代码，可以分析出来/manage/intercom/为绕过的信息，
 
-![image-20250813164948851](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20250813164948851.png)
+![image-20250813164948851](https://raw.githubusercontent.com/cvi-Qing/code-anylance/refs/heads/main/anylance/jpg/image-20250813164948851.png)
 
 ## 鉴权绕过
 
